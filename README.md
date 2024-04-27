@@ -1,4 +1,4 @@
->>>Başlangıc Seviye Frontend Web Development Patikası<<<
+ ##Başlangıc Seviye Frontend Web Development Patikası
 
   1. HTML
      - practic
