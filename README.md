@@ -1,23 +1,23 @@
->>>Başlangıc Seviye Frontend Web Development Patikası<<<
+ ##Başlangıc Seviye Frontend Web Development Patikası
 
   1. HTML
-     - practic - html
+     - practic
      - Task 1
      - Task 2
      - Task 3
   3. CSS
-     - practic - css
+     - practic
      - Task 1
      - Task 2
      - Task 3
   5. BOOTSTRAP
-      - practic - bootstrap
+      - practic
       - Task 1
       - Task 2
       - Task 3
      
   7. JAVASCRIPT
-     - practic - js
+     - practic
      - Task 1
      - Task 2
      - Task 3
