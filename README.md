@@ -1,23 +1,23 @@
  
 # Başlangıc Seviye Frontend Web Development Patikası
 
- #  HTML
+ ##  HTML
      - practic
      - Task 1
      - Task 2
      - Task 3
- #  CSS
+ ##  CSS
      - practic
      - Task 1
      - Task 2
      - Task 3
- #  BOOTSTRAP
+ ##  BOOTSTRAP
       - practic
       - Task 1
       - Task 2
       - Task 3
      
- #  JAVASCRiPT
+ ##  JAVASCRiPT
      - practic
      - Task 1
      - Task 2
