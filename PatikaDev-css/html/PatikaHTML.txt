@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patika</title>
+</head>
+<body>
+    <h1>Patika Dev Academy Frontend html dersleri</h1>
+
+<h2>Haqqimda</h2>
+
+<p>Eveet harika konular öğrendikten sonra sıra geldi ödevimize.
+Bu ödevimizde ilk web sayfamızı tasarlayacağız. Çok heyecanlı değil mi? 
+Sizlerden istediğimiz çok basit bir şekilde öğrendiklerinizle bir web sayfası tasarlamanız.</p>
+</body>
+</html>
